@@ -1,4 +1,4 @@
-let aquariusMessages = ["The world is your oyster, do whatever you can to improve it and help others within it.", "You are an original.", "Take the time you need to be alone, think and reacharge. You deserve it.", "Your compassion and strong sense of justice will help change the world.", "Embrace your eccentricities."]
+let aquariusMessages = ["The world is your oyster, do whatever you can to improve it and help others within it.", "You are an original.", "Take the time you need to be alone, think and recharge. You deserve it.", "Your compassion and strong sense of justice will help change the world.", "Embrace your eccentricities."]
 
 let aquariusButton = document.getElementById('aquariusButton');
 let aquariusInspiration = document.getElementById('aquariusInspiration');
